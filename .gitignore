@@ -1,0 +1,7 @@
+*/.ipynb_checkpoints/*
+*.err
+*.out
+__pycache__
+*.pyc
+*.swp
+nohup.*
